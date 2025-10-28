@@ -14,4 +14,4 @@ hudson_plot是基于python3开发的一款轻量级GUI工具，支持动态设�
 
 <img width="1532" height="1392" alt="image" src="https://github.com/user-attachments/assets/f7def1ce-6721-4bd8-a2a3-2cf15cf8055e" />
 
-测试数据在data文件夹内
+测试数据.dat文件同步提供
